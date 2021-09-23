@@ -1,48 +1,102 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+The Project Gutenberg eBook of Dracula, by Bram Stoker
 
-<h1>Dracula</h1>
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
-<p>by Bram Stoker</p>
+Title: Dracula
 
-<h2>Contents</h2>
+Author: Bram Stoker
 
-<ol>
-<li>CHAPTER I. Jonathan Harker’s Journal</li>
-<li>CHAPTER II. Jonathan Harker’s Journal</li>
-<li>CHAPTER III. Jonathan Harker’s Journal</li>
-<li>CHAPTER IV. Jonathan Harker’s Journal</li>
-<li>CHAPTER V. Letters—Lucy and Mina</li>
-<li>CHAPTER VI. Mina Murray’s Journal</li>
-<li>CHAPTER VII. Cutting from “The Dailygraph,” 8 August</li>
-<li>CHAPTER VIII. Mina Murray’s Journal</li>
-<li>CHAPTER IX. Mina Murray’s Journal</li>
-<li>CHAPTER X. Mina Murray’s Journal</li>
-<li>CHAPTER XI. Lucy Westenra’s Diary</li>
-<li>CHAPTER XII. Dr. Seward’s Diary</li>
-<li>CHAPTER XIII. Dr. Seward’s Diary</li>
-<li>CHAPTER XIV. Mina Harker’s Journal</li>
-<li>CHAPTER XV. Dr. Seward’s Diary</li>
-<li>CHAPTER XVI. Dr. Seward’s Diary</li>
-<li>CHAPTER XVII. Dr. Seward’s Diary</li>
-<li>CHAPTER XVIII. Dr. Seward’s Diary</li>
-<li>CHAPTER XIX. Jonathan Harker’s Journal</li>
-<li>CHAPTER XX. Jonathan Harker’s Journal</li>
-<li>CHAPTER XXI. Dr. Seward’s Diary</li>
-<li>CHAPTER XXII. Jonathan Harker’s Journal</li>
-<li>CHAPTER XXIII. Dr. Seward’s Diary</li>
-<li>CHAPTER XXIV. Dr. Seward’s Phonograph Diary, spoken by Van Helsing</li>
-<li>CHAPTER XXV. Dr. Seward’s Diary</li>
-<li>CHAPTER XXVI. Dr. Seward’s Diary</li>
-<li>CHAPTER XXVII. Mina Harker’s Journal</li>
-</ol>
+Release Date: October, 1995 [eBook #345]
+[Most recently updated: March 12, 2021]
+
+Language: English
+
+Character set encoding: UTF-8
+
+Produced by: Chuck Greif and the Online Distributed Proofreading Team
+
+*** START OF THE PROJECT GUTENBERG EBOOK DRACULA ***
+
+
+
+
+                                DRACULA
+
+
+
+
+
+                                DRACULA
+
+                                  _by_
+
+                              Bram Stoker
+
+                        [Illustration: colophon]
+
+                                NEW YORK
+
+                            GROSSET & DUNLAP
+
+                              _Publishers_
+
+      Copyright, 1897, in the United States of America, according
+                   to Act of Congress, by Bram Stoker
+
+                        [_All rights reserved._]
+
+                      PRINTED IN THE UNITED STATES
+                                   AT
+               THE COUNTRY LIFE PRESS, GARDEN CITY, N.Y.
+
+
+
+
+                                   TO
+
+                             MY DEAR FRIEND
+
+                               HOMMY-BEG
+
+
+
+
+Contents
+
+CHAPTER I. Jonathan Harker’s Journal
+CHAPTER II. Jonathan Harker’s Journal
+CHAPTER III. Jonathan Harker’s Journal
+CHAPTER IV. Jonathan Harker’s Journal
+CHAPTER V. Letters—Lucy and Mina
+CHAPTER VI. Mina Murray’s Journal
+CHAPTER VII. Cutting from “The Dailygraph,” 8 August
+CHAPTER VIII. Mina Murray’s Journal
+CHAPTER IX. Mina Murray’s Journal
+CHAPTER X. Mina Murray’s Journal
+CHAPTER XI. Lucy Westenra’s Diary
+CHAPTER XII. Dr. Seward’s Diary
+CHAPTER XIII. Dr. Seward’s Diary
+CHAPTER XIV. Mina Harker’s Journal
+CHAPTER XV. Dr. Seward’s Diary
+CHAPTER XVI. Dr. Seward’s Diary
+CHAPTER XVII. Dr. Seward’s Diary
+CHAPTER XVIII. Dr. Seward’s Diary
+CHAPTER XIX. Jonathan Harker’s Journal
+CHAPTER XX. Jonathan Harker’s Journal
+CHAPTER XXI. Dr. Seward’s Diary
+CHAPTER XXII. Jonathan Harker’s Journal
+CHAPTER XXIII. Dr. Seward’s Diary
+CHAPTER XXIV. Dr. Seward’s Phonograph Diary, spoken by Van Helsing
+CHAPTER XXV. Dr. Seward’s Diary
+CHAPTER XXVI. Dr. Seward’s Diary
+CHAPTER XXVII. Mina Harker’s Journal
+
 
 
 
@@ -50,15 +104,15 @@ DRACULA
 
 
 
-<section>
-<h1>CHAPTER I</h1>
 
-<p>JONATHAN HARKER'S JOURNAL</p>
+CHAPTER I
+
+JONATHAN HARKER'S JOURNAL
 
 (_Kept in shorthand._)
 
 
-<p>_3 May. Bistritz._--Left Munich at 8:35 P. M., on 1st May, arriving at
+_3 May. Bistritz._--Left Munich at 8:35 P. M., on 1st May, arriving at
 Vienna early next morning; should have arrived at 6:46, but train was an
 hour late. Buda-Pesth seems a wonderful place, from the glimpse which I
 got of it from the train and the little I could walk through the
@@ -553,17 +607,16 @@ driver was in the act of pulling up the horses in the courtyard of a
 vast ruined castle, from whose tall black windows came no ray of light,
 and whose broken battlements showed a jagged line against the moonlit
 sky.
-</p>
-</section>
 
 
-<section>
-<h1>CHAPTER II</h1>
+
+
+CHAPTER II
 
 JONATHAN HARKER'S JOURNAL--_continued_
 
 
-<p>_5 May._--I must have been asleep, for certainly if I had been fully
+_5 May._--I must have been asleep, for certainly if I had been fully
 awake I must have noticed the approach of such a remarkable place. In
 the gloom the courtyard looked of considerable size, and as several dark
 ways led from it under great round arches, it perhaps seemed bigger than
@@ -1056,16 +1109,16 @@ bolted. In no place save from the windows in the castle walls is there
 an available exit.
 
 The castle is a veritable prison, and I am a prisoner!
-</p>
-</section>
 
-<section>
-<h1>CHAPTER III</h1>
+
+
+
+CHAPTER III
 
 JONATHAN HARKER'S JOURNAL--_continued_
 
 
-<p>When I found that I was a prisoner a sort of wild feeling came over me.
+When I found that I was a prisoner a sort of wild feeling came over me.
 I rushed up and down the stairs, trying every door and peering out of
 every window I could find; but after a little the conviction of my
 helplessness overpowered all other feelings. When I look back after a
@@ -1555,16 +1608,16 @@ moonlight and pass out through the window, for I could see outside the
 dim, shadowy forms for a moment before they entirely faded away.
 
 Then the horror overcame me, and I sank down unconscious.
-</p>
-</section>
 
-<section>
-<h1>CHAPTER IV</h1>
+
+
+
+CHAPTER IV
 
 JONATHAN HARKER'S JOURNAL--_continued_
 
 
-<p>I awoke in my own bed. If it be that I had not dreamt, the Count must
+I awoke in my own bed. If it be that I had not dreamt, the Count must
 have carried me here. I tried to satisfy myself on the subject, but
 could not arrive at any unquestionable result. To be sure, there were
 certain small evidences, such as that my clothes were folded and laid by
@@ -2125,15 +2178,15 @@ children still walk with earthly feet!
 At least God's mercy is better than that of these monsters, and the
 precipice is steep and high. At its foot a man may sleep--as a man.
 Good-bye, all! Mina!
-</p>
-</section>
 
-<section>
-<h1>CHAPTER V</h1>
+
+
+
+CHAPTER V
 
 _Letter from Miss Mina Murray to Miss Lucy Westenra._
 
-<p>
+
 "_9 May._
 
 "My dearest Lucy,--
@@ -2468,11 +2521,11 @@ _Telegram from Arthur Holmwood to Quincey P. Morris._
 tingle.
 
 "ART."
-</p>
-</section>
 
-<section>
-<h1>CHAPTER VI<h2>
+
+
+
+CHAPTER VI
 
 MINA MURRAY'S JOURNAL
 
@@ -15814,6 +15867,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
 
-
-</body>
-</html>
